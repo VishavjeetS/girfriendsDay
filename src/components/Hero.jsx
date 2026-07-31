@@ -16,13 +16,13 @@ export default function Hero() {
     >
       <div className="pointer-events-none absolute inset-x-0 top-1/2 z-0 mx-auto flex  -translate-y-1/2 items-center justify-between overflow-hidden px-4 sm:px-10 md:px-20 opacity-20">
         <img
-          src="/images/mtallo2.jpg"
+          src="./images/mtallo2.jpg"
           className="h-[150px] w-[150px] rounded-full object-cover sm:h-[190px] sm:w-[190px] md:h-[300px] md:w-[300px] xl:h-[700px] xl:w-[700px]"
           alt=""
         />
 
         <img
-          src="/images/mtallo1.jpg"
+          src="./images/mtallo1.jpg"
           className="h-[150px] w-[150px] rounded-full object-cover sm:h-[190px] sm:w-[190px]  md:h-[300px] md:w-[300px] xl:h-[700px] xl:w-[700px]"
           alt=""
         />
@@ -70,7 +70,7 @@ export default function Hero() {
         <div className="w-44 h-44 md:w-52 md:h-52 rounded-full bg-gradient-to-br from-rose-200 via-rose-100 to-rose-300 mix-blend-multiply shadow-xl shadow-rose-200/50" />
         <div className="absolute inset-0 rounded-full bg-gradient-to-t from-rose-100/60 via-transparent to-rose-50/40">
           <img
-            src="/images/mtallo.jpg"
+            src="./images/mtallo.jpg"
             className="object-cover h-full w-full flex justify-center mix-blend-multiply rounded-full"
             alt=""
           />

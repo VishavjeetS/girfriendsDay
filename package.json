@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://VishavjeetS.github.io/girlfriendsDay",
+  "homepage": "https://VishavjeetS.github.io/girfriendsDay",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
